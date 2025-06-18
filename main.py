@@ -1,6 +1,6 @@
 import streamlit as st
-st.title("제목")
-st.write("내용")
+st.title("인구분포")
+st.write("연령별 인구분포")
 
 import streamlit as st
 import pandas as pd
